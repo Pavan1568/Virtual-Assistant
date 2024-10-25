@@ -1,1 +1,1 @@
-# Virtual-Assistant
+This is a virtual assistant using python.It is designed to help perform basic tasks such as answering questions ,performing websearches,playing music.It uses python libraries for voice recognition and natural language processing to interpret user commands and respond accordingly.
